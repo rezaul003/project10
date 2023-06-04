@@ -1,0 +1,42 @@
+.head{
+	margin-top: 1px;
+	height: 55px;
+	background-color: seagreen;
+	border: 1px gray;
+	text-align: center;
+	margin-bottom: 3px; Center;
+
+}
+.size{
+	margin-top: 5px;
+	height: 40px;
+	background-color: skyblue;
+	border: 2px solid red;
+	text-align: center;
+	margin-bottom: 3px;
+}
+.col-1{
+		margin-top: 5px;
+	height: 40px;
+	background-color: lightgray;
+	border: 2px solid red;
+	text-align: center;
+	margin-bottom: 3px;
+}
+.col-2{
+	margin-top: 5px;
+	height: 40px;
+	background-color: lightgray;
+	border: 2px solid red;
+	text-align: center;
+	margin-bottom: 3px;
+
+}
+.clm{
+	margin-top: 5px;
+	height: 40px;
+	background-color: lightcoral;
+	border: 2px solid red;
+	text-align: center;
+	margin-bottom: 3px;
+}
